@@ -124,7 +124,7 @@ ol li:before {
 /*  */
 /* image with gradient style */
 .image-gradient-container {
-    background-image: url(../images/gradient2.png), url(../images/watch.png);
+    background-image: url(./images/gradient2.png), url(./images/watch.png);
     height: 200px;
     width: 70%;
     margin: 0 auto;
